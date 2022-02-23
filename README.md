@@ -1,0 +1,1 @@
+Java Core for QA engineers
